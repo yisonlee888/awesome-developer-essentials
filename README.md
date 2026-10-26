@@ -250,6 +250,7 @@ Entries marked with `*` are especially beginner-friendly.
 - [Alfred](https://www.alfredapp.com) - macOS launcher for keyboard-driven productivity tasks.
 - [iTerm2](https://iterm2.com) - Terminal emulator with profile management and workflow automation features.
 - [bat](https://github.com/sharkdp/bat) - Command-line file viewer with syntax highlighting and Git integration.
+- [ToolStack](https://tools.mindutil.com/en) - 122 browser-based developer tools (JSON, Base64, regex, JWT, HTTP status, color, and unit conversion) that run entirely client-side, with no signup and no file uploads.
 
 ## API Tools and Testing
 
